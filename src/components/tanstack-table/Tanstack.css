@@ -1,0 +1,39 @@
+.List {
+    border: 1px solid #e6e4dc;
+    max-width: 100%;
+}
+
+.ListItemEven,
+.ListItemOdd {
+    display: flex;
+    height: 20px;
+    padding: 8px
+}
+
+/* .ListItemEven {
+    background-color: #e6e4dc;
+} */
+
+.Column {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.HeaderRow {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+}
+
+.ColumnHeader {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 200px;
+    margin-right: 10px;
+    padding: 8px
+}

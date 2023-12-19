@@ -1,0 +1,12 @@
+.ka-thead-cell {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: #f9fafb;
+}
+
+.ka-cell-text {
+    text-align: center;
+}
